@@ -6,3 +6,4 @@ This macro was prepared to prepare the current file to the desired format.
 Then it deletes rows based on certain conditions and formats a new file.
 After which it opened a new sheet and applied lookups to a 2d grid and gave us required data.
 It then compares this data with the help of concatenation and identifies cases where no action is required.
+Request you to contact parthshukla1992@gmail.com for any queries in this regard.
