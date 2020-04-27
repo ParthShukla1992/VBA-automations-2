@@ -8,7 +8,7 @@ Dim pass As Variant
 
 'Benefile = Application.GetOpenFilename()
 
-       ' Workbooks.Open Filename:=Benefile, Password:="GM$2020qeeN" 'pass when final
+       ' Workbooks.Open Filename:=Benefile, Password:="xyz" 'pass when final
         
   MsgBox ("Open the file received from IT")
   gmssecfile = Application.GetOpenFilename()
